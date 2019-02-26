@@ -1,0 +1,25 @@
+{
+  "name": "wackd",
+  "version": "1.0.0",
+  "description": "shuffle a string",
+  "main": "index.js",
+  "keywords": [
+    "random",
+    "string",
+    "shuffle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzbc/wackd.git"
+  },
+  "author": {
+    "name": "Andrew Jazbec",
+    "email": "contact@ajzbc.com",
+    "url": "https://ajzbc.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajzbc/wackd/issues"
+  },
+  "homepage": "https://github.com/ajzbc/wackd"
+}
